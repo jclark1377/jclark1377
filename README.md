@@ -1,6 +1,6 @@
 # Jonathan “Jay” Clark
 
-### Enterprise AI & Solutions Architecture | Microsoft 365 | Power Platform
+### Enterprise AI & Solutions Architecture | Microsoft 365 | Power Apps & Power Platform
 
 I bring **21+ years of technology experience, spanning 2005–2026**, across enterprise IT, Microsoft infrastructure, systems engineering, cloud architecture, automation, and AI. I connect business requirements to practical solutions—from reliable endpoints and identity platforms to governed Microsoft 365 environments, production Copilot agents, document management, and migration automation.
 
@@ -9,6 +9,16 @@ I bring **21+ years of technology experience, spanning 2005–2026**, across ent
 **Open to Enterprise AI, Solutions Architect, Microsoft 365, SharePoint, and Power Platform architecture opportunities.**
 
 [**Explore my portfolio**](https://github.com/jclark1377/m365-ai-architecture-portfolio) · [**Career projects & case studies**](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/case-studies/README.md)
+
+## Featured Power Apps work
+
+**[Power Apps & Power Platform portfolio](https://github.com/jclark1377/m365-ai-architecture-portfolio/tree/main/power-platform)** — business applications, SharePoint data design, Power Fx, workflow integration, and governed releases.
+
+- **[Audit Engagement Letter app](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/audit-engagement-letter/README.md):** InfoPath modernization using Power Apps, SharePoint, and Power Automate; approximately 65 fields and eight screens reported, with a group-backed preparer control.
+- **[Employee recognition](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/employee-recognition/README.md):** Nomination intake, approvals, rejection feedback, and Teams publishing; later presentation changes remain in testing.
+- **[Tax-service intake](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/tax-service-intake/README.md):** Structured requests, multi-select data shaping, assignment/completion notifications, and troubleshooting; end-to-end acceptance remains open.
+
+For recruiters and freelance clients, the collection includes architecture, requirements, data models, control examples, integration, DEV/UAT/PROD practices, and testing. Public examples are sanitized; observed implementation and recommended patterns are clearly distinguished.
 
 ## Selected impact
 
