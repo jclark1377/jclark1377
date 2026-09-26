@@ -1,14 +1,25 @@
 # Jonathan “Jay” Clark
 
-### Enterprise AI & Solutions Architecture | Microsoft 365 | Power Apps & Power Platform
+### Power Platform Governance & Delivery | Microsoft 365 | Enterprise AI & Solutions Architecture
 
 I bring **21+ years of technology experience, spanning 2005–2026**, across enterprise IT, Microsoft infrastructure, systems engineering, cloud architecture, automation, and AI. I connect business requirements to practical solutions—from reliable endpoints and identity platforms to governed Microsoft 365 environments, production Copilot agents, document management, and migration automation.
 
 **Infrastructure → Systems Administration → Endpoint Engineering → Enterprise Automation → Cloud & Microsoft 365 → Governance & Power Platform → AI Agents & RAG/MCP Architecture**
 
-**Open to Enterprise AI, Solutions Architect, Microsoft 365, SharePoint, and Power Platform architecture opportunities.**
+**Open to Power Platform Owner, Technical Platform Owner, Power Platform Lead, and Enterprise AI / Microsoft 365 / Solutions Architecture opportunities.**
 
 [**Explore my portfolio**](https://github.com/jclark1377/m365-ai-architecture-portfolio) · [**Career projects & case studies**](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/case-studies/README.md)
+
+## Power Platform governance and operational delivery
+
+My Power Platform work combines governance across an automation estate with hands-on business application delivery and enterprise Microsoft 365 operations.
+
+- **162-flow governance transformation:** Migrated individually owned Power Automate flows to centralized service-account governance using Solutions and connection references, reducing dependency on individual users and improving maintainability.
+- **Production service integration:** Deployed a Copilot Studio help desk solution with approved SharePoint knowledge and automated ticket creation.
+- **Business application delivery:** Built engagement-letter, recognition, and tax-intake solutions using Power Apps, SharePoint, and Power Automate; current acceptance status is documented per project.
+- **Enterprise operational foundation:** SharePoint governance across approximately 800 sites, identity and permissions experience, recovery procedures, and repeatable migration automation.
+
+**[Platform ownership experience and delivery scope](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/platform-ownership.md)**
 
 ## Featured Power Apps work
 
