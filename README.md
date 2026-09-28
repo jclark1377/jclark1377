@@ -1,101 +1,80 @@
-# Jonathan “Jay” Clark
+<p align="center">
+  <img src="assets/portfolio-banner.svg" alt="Jonathan Jay Clark — Microsoft 365, Power Platform and Applied AI. Architecture into delivery." width="100%" />
+</p>
 
-### Power Platform Governance & Delivery | Microsoft 365 | Enterprise AI & Solutions Architecture
+<p align="center">
+  <strong><a href="https://github.com/jclark1377/m365-ai-architecture-portfolio">EXPLORE THE PORTFOLIO</a> &nbsp; / &nbsp; <a href="https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/evidence/README.md">PROJECT EVIDENCE</a> &nbsp; / &nbsp; <a href="CAREER.md">CAREER & IMPACT</a></strong>
+</p>
 
-I bring **21+ years of technology experience, spanning 2005–2026**, across enterprise IT, Microsoft infrastructure, systems engineering, cloud architecture, automation, and AI. I connect business requirements to practical solutions—from reliable endpoints and identity platforms to governed Microsoft 365 environments, production Copilot agents, document management, and migration automation.
+## Hi, I’m Jay.
 
-**Infrastructure → Systems Administration → Endpoint Engineering → Enterprise Automation → Cloud & Microsoft 365 → Governance & Power Platform → AI Agents & RAG/MCP Architecture**
+I turn complex business processes into governed Microsoft 365 solutions, practical automation, and connected AI experiences. My work spans **21+ years of enterprise IT**, from systems and endpoint engineering to Power Platform delivery, SharePoint architecture, and production Copilot integration.
 
-**Open to Power Platform Owner, Technical Platform Owner, Power Platform Lead, and Enterprise AI / Microsoft 365 / Solutions Architecture opportunities.**
+**The Cyber Consultants** · Open to **Power Platform leadership**, **Microsoft 365**, and **Solutions Architecture** opportunities.
 
-[**Explore my portfolio**](https://github.com/jclark1377/m365-ai-architecture-portfolio) · [**Career projects & case studies**](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/case-studies/README.md)
+### Selected work
 
-## Power Platform governance and operational delivery
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My Power Platform work combines governance across an automation estate with hands-on business application delivery and enterprise Microsoft 365 operations.
+#### SharePoint DMS & migration
+Architecture, provisioning, PowerShell, and reconciliation. A bounded **1,305-file pilot** is documented alongside exceptions and runnable synthetic samples; broader migration remains in progress.
 
-- **162-flow governance transformation:** Reorganized 162 Power Automate flows without disrupting production and created a dedicated flow service account to centralize ownership. Recovered flows whose original owners had left and brought them under the dedicated account. Used Solutions and connection references to reduce reliance on individual employees’ accounts and improve maintainability.
-- **Production service integration:** Deployed a Copilot Studio help desk solution with approved SharePoint knowledge and automated ticket creation.
-- **Business application delivery:** Built engagement-letter, recognition, and tax-intake solutions using Power Apps, SharePoint, and Power Automate; current acceptance status is documented per project.
-- **Enterprise operational foundation:** SharePoint governance across approximately 800 sites, identity and permissions experience, recovery procedures, and repeatable migration automation.
+[Case study & code →](https://github.com/jclark1377/m365-ai-architecture-portfolio/tree/main/case-studies/property-portfolio-dms)
 
-**[Platform ownership experience and delivery scope](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/platform-ownership.md)**
+</td>
+<td width="50%" valign="top">
 
-## Featured Power Apps work
+#### Power Platform ownership
+A reported **162-flow governance transformation** using centralized ownership, Solutions, and connection references, including recovery of flows belonging to departed owners.
 
-**[Power Apps & Power Platform portfolio](https://github.com/jclark1377/m365-ai-architecture-portfolio/tree/main/power-platform)** — business applications, SharePoint data design, Power Fx, workflow integration, and governed releases.
+[Contribution & scope →](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/platform-ownership.md)
 
-- **[Audit Engagement Letter app](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/audit-engagement-letter/README.md):** InfoPath modernization using Power Apps, SharePoint, and Power Automate; approximately 65 fields and eight screens reported, with a group-backed preparer control.
-- **[Employee recognition](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/employee-recognition/README.md):** Nomination intake, approvals, rejection feedback, and Teams publishing; later presentation changes remain in testing.
-- **[Tax-service intake](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/tax-service-intake/README.md):** Structured requests, multi-select data shaping, assignment/completion notifications, and troubleshooting; end-to-end acceptance remains open.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-For recruiters and freelance clients, the collection includes architecture, requirements, data models, control examples, integration, DEV/UAT/PROD practices, and testing. Public examples are sanitized; observed implementation and recommended patterns are clearly distinguished.
+#### Power Apps & business workflows
+Engagement-letter modernization, recognition, and tax intake. Explore control examples, data models, integration, and each application’s acceptance status.
 
-## Selected impact
+[Application portfolio →](https://github.com/jclark1377/m365-ai-architecture-portfolio/tree/main/power-platform)
 
-| Work | Method, scale, and business result |
-| --- | --- |
-| Enterprise cost management — Avenu | Vendor negotiations documented a **24% reduction in IT spending**, alongside acquisition integration, endpoint lifecycle management, and Office 365/SharePoint work. |
-| Microsoft 365 modernization — BJCTA | Google Workspace → Microsoft 365 migration for **500+ users**, plus SharePoint and Power Automate workflows for HR/Finance; connected collaboration modernization with business-process automation. |
-| Deployment automation — SAIC | **MDT/MECM and PowerShell** image, task-sequence, and OS deployment automation supporting **30,000+ devices**, reducing manual deployment effort. |
-| Enterprise modernization — MDA | Architecture and migration planning in an environment supporting **10,000+ users / 30,000+ endpoints**, spanning Microsoft cloud, identity, endpoint management, and Zero Trust. These figures describe environment scale. |
-| Event workflow automation — MDA | Forms, SharePoint, Teams, and Power Automate RSVP/reminder/tracking workflows for a Zero Trust event delivered a documented **60% reduction in manual workload**. |
-| Production Help Desk Copilot | Deployed Copilot Studio with approved SharePoint knowledge and automated ManageEngine ServiceDesk ticket creation for an approximately **800-user** environment, connecting self-service answers to human support. |
-| Power Automate governance | Migrated **162 flows** from individual ownership to centralized service-account governance, Solutions, and connection references, reducing individual-user dependency and improving maintainability. |
-| SharePoint governance | Governed an estate of **approximately 800 sites** across ownership, lifecycle, permissions, metadata, external sharing, and compliance visibility. |
-| Enterprise data recovery | Recovered **12,302 of 13,558 items (90.7%)**, with repeatable validation and remediation procedures. |
-| Consulting DMS and migration | Provisioned a multi-site SharePoint DMS and planned migration of **approximately 115,000 files / 347 GB**, with automated metadata preservation and reconciliation. **Migration and acceptance remain in progress.** |
+</td>
+<td width="50%" valign="top">
 
-Results and scale are drawn from my resume and project records. Environment sizes describe scope, not personal deployment totals; ongoing work and proposed designs are distinguished from completed results. The case studies provide role and delivery context.
+#### Copilot & enterprise knowledge
+Reported production help-desk integration, plus reference designs for grounded knowledge, evaluation, and governed MCP tools. Proposed designs are labeled separately.
 
-## Career progression: 2005–2026
+[AI & architecture →](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/copilot-ai/README.md)
 
-| Period | Organization / chapter | Engineering and architecture focus |
-| --- | --- | --- |
-| 2005–2016 | Enterprise IT and systems foundation | Hardware, Windows infrastructure, enterprise support, troubleshooting, virtualization, and stakeholder communication. Earlier work includes Southern Company systems engineering and Cunningham Pathology infrastructure experience. |
-| 2016–2018 | Avenu Insights | SCCM endpoint engineering, acquisition integration, Office 365/SharePoint, identity and workflow support, lifecycle management, vendor management, and ServiceNow support practices. |
-| 2018–2021 | Birmingham-Jefferson County Transit Authority | Microsoft 365 migration and administration, SharePoint, Active Directory, VMware, SCCM, PowerShell, endpoint provisioning, and HR/Finance workflow automation. |
-| 2021–2022 | SAIC | Enterprise deployment engineering with MDT/MECM, off-network OS deployment, task sequences, PowerShell, and SharePoint-based training solutions. |
-| 2022–2023 | Lockheed Martin | Microsoft 365 and Azure engineering, Teams and data migration, Exchange Online, Entra ID, SharePoint document management, Windows 11 modernization, and automation supporting approximately **2,000 users**. |
-| 2023–2025 | Missile Defense Agency | Enterprise modernization, target-state architecture, Azure/Microsoft 365, SharePoint migration planning, Zero Trust, Conditional Access, MFA, Intune/MECM co-management, Autopilot, PowerShell, and Microsoft Graph. |
-| 2026–present | Warren Averett | Production Copilot, Microsoft 365 and SharePoint governance, Purview information governance, Power Platform ALM, recovery/remediation, and business-process modernization. |
-| Current consulting | The Cyber Consultants | SharePoint DMS, migration discovery and automation, PnP PowerShell, Azure Automation, validation/reconciliation, and private AI architecture. RAG/MCP reference designs are identified separately from production deployments. |
+</td>
+</tr>
+</table>
 
-[**Read the projects, roles, and delivery details →**](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/case-studies/README.md)
+### What I work with
 
-## Architecture and engineering capabilities
+**Microsoft 365** &nbsp; SharePoint · Teams · Entra ID · Purview  
+**Power Platform** &nbsp; Power Apps · Power Automate · Power BI · Copilot Studio  
+**Engineering** &nbsp; PowerShell · PnP · Microsoft Graph · Azure Automation · REST APIs  
+**Architecture** &nbsp; Information governance · ALM · RAG · Identity & access · Operational recovery
 
-| Area | Practical focus |
-| --- | --- |
-| Enterprise IT & endpoints | Windows infrastructure, Active Directory, VMware, hardware and lifecycle management, **Intune, MECM/SCCM, MDT, Autopilot**, deployment task sequences, application compatibility, pilot rings, and recovery planning. |
-| Microsoft cloud & collaboration | **Microsoft 365, SharePoint Online, Teams, OneDrive, Exchange Online, Entra ID, and Azure**; identity, collaboration, migration planning, integration, and operational ownership. |
-| SharePoint & enterprise DMS | Hub and information architecture, content types, Document Sets, managed metadata, permissions, PnP provisioning, document lifecycle, metadata preservation, and source/destination reconciliation. |
-| Security & governance | Zero Trust, Conditional Access, MFA, external sharing, ownership and lifecycle controls, **Microsoft Purview** retention labels, records lifecycle, ComplianceTag backfill, and preservation/archive architecture. |
-| Automation & integration | **PowerShell, PnP PowerShell, Microsoft Graph, REST APIs, and Azure Automation** for discovery, provisioning, policy migration, remediation, reporting, and repeatable operations. |
-| Power Platform | **Power Apps, Power Automate, Power BI, and Copilot Studio**; business intake, approvals, dashboards, Solutions, connection references, service-account patterns, DEV/UAT/PROD ALM, DLP, and release controls. |
-| AI agents & knowledge architecture | Production Copilot Studio grounding, generative answers, Power Automate actions, ticket escalation, and scenario-based evaluation; **RAG** document normalization, semantic chunking, embeddings, metadata-filtered retrieval, and **MCP** modular/read-only tool integration as architecture and reference-design work. |
+### Built to be inspected
 
-## Recent work and reusable methods
+My portfolio connects **business problems → architecture → implementation → validation**. Start with the [evidence index](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/evidence/README.md) for traceable claims, scoped results, and public code you can run.
 
-- **Resumable SharePoint migration:** Discovery → inventory → dependency/permissions analysis → target DMS architecture → provisioning → pilot → automated migration → exception handling → reconciliation → validation → cutover. Azure Automation and PnP PowerShell process approximately 400-file chunks with existing-file checks, metadata preservation, JSON reporting, and final reconciliation logic. Migration and acceptance remain in progress.
-- **Power Platform modernization:** Re-architect workflows around Solutions, connection references, managed ownership, environment separation, testing, and production runbooks. Engagement-letter modernization replaces legacy InfoPath forms with SharePoint and Power Apps, integrating Power Automate across approximately 65 fields and eight screens.
-- **Business workflows:** Audit Engagement Letters, Company Kudos, SALT Tax intake, and Risk Advisory tracking connect structured SharePoint data to routing, approvals, Teams/email notifications, and assignment/completion processing. Kudos and SALT testing is ongoing.
-- **Governance and recovery:** Inventory ownership and permissions, define lifecycle and retention controls, automate remediation, and validate results. Purview retention and preservation patterns complement SharePoint governance and repeatable recovery procedures.
-- **Enterprise reporting and operations:** MDA work included Microsoft 365 security-policy automation with PowerShell/Graph, Teams-to-Jira workflows, annual IT assessment reporting through SharePoint/Power Automate/Power BI, and lifecycle replacement forecasting to support planning and budgeting.
-- **Copilot and AI:** Ground support answers in approved knowledge, establish identity and retrieval boundaries, connect actions to support escalation, and evaluate realistic scenarios. Additional architecture work includes expertise discovery, employee AI-idea capture, and AI-assisted audit knowledge reuse.
-- **Private RAG and MCP architecture:** Normalize knowledge, design semantic chunks and metadata-filtered retrieval, and separate retrieval from controlled tool actions. [TCC Core MCP](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/mcp/tcc-core-mcp/README.md) is a **proposed reference design**, not a claimed production deployment.
+Career results are drawn from my professional record. Public examples are sanitized; synthetic demonstrations, ongoing acceptance work, and reference designs are identified explicitly.
 
-## Technical portfolio
+<details>
+<summary><strong>More about my background</strong></summary>
 
-- [SharePoint enterprise DMS](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/sharepoint/enterprise-dms/README.md): information architecture, document lifecycle, and migration runbook.
-- [Power Platform](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/power-platform/README.md): intake, approvals, environment strategy, and release controls.
-- [Copilot & AI](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/copilot-ai/README.md): grounded knowledge, retrieval boundaries, and evaluation.
-- [Architecture](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/architecture/README.md) and [governance](https://github.com/jclark1377/m365-ai-architecture-portfolio/blob/main/governance/README.md): integration decisions, access controls, and operational ownership.
+My background spans enterprise infrastructure, endpoint deployment, Microsoft cloud modernization, workflow governance, business applications, and applied AI. I bring that operational foundation to architecture: ownership, identity, failure handling, recovery, and support are part of the design.
 
-## Delivery approach
+[Full career history, selected impact, and engineering capabilities →](CAREER.md)
 
-**Business problem → Discovery → Requirements → Architecture → Security/governance → Implementation and automation → Testing/validation → Results → Operational handoff.**
+</details>
 
-I establish identity and ownership boundaries early, validate focused pilots, and build monitoring, support, change control, and recovery into delivery. For migrations, that includes dependency analysis, metadata and permission checks, exception reporting, reconciliation, and cutover/rollback planning. For agents and workflows, it includes scenario testing, escalation paths, release controls, and maintainable ownership.
+---
 
-This GitHub contains professional experience summaries and sanitized public reference artifacts. Employer-owned implementations remain private. Client tenant URLs, credentials, identifiers, proprietary code, and sensitive operational details are excluded. Proposed designs, prototypes, and ongoing work are identified separately from completed results.
+**Jonathan “Jay” Clark** · Architecture into delivery.
